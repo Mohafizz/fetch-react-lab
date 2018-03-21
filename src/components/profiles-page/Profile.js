@@ -3,7 +3,6 @@ import ProfileName from "./ProfileName";
 import ProfilePic from "./ProfilePic";
 import ProfileContact from "./ProfileContact";
 import ProfileAddress from "./ProfileAddress";
-import ProfileCountry from "./ProfileCountry"
 
 class Profile extends Component {
   constructor(props) {
