@@ -47,6 +47,10 @@
   text-align: center;
 }
 
+.profileAddress:hover, .profileContact:hover{
+    background: #01b403ae;
+}
+
 .clickable {
   padding: 5px;
   cursor: pointer;
